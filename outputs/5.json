@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "3a2d8208-7fbd-4ce8-8053-89e60868feff",
+  "content-length": "159",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a room with a table and chairs",
+    "confidence": 0.8199058175086975
+  },
+  "metadata": {
+    "width": 3024,
+    "height": 4032
+  }
+}
