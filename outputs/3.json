@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "bc6c7688-569e-4a74-bdab-0c367a3d66e3",
+  "content-length": "162",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a kitchen with a table and chairs",
+    "confidence": 0.7895086407661438
+  },
+  "metadata": {
+    "width": 3024,
+    "height": 4032
+  }
+}
