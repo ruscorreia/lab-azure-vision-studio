@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "2a8f980f-760e-41a6-9d99-1e0440ca5bd3",
+  "content-length": "168",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "cars parked cars in front of a building",
+    "confidence": 0.8330904841423035
+  },
+  "metadata": {
+    "width": 4032,
+    "height": 3024
+  }
+}
