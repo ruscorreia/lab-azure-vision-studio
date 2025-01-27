@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "a24f82da-d356-4e20-8522-854126708cc6",
+  "content-length": "149",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a pool in a building",
+    "confidence": 0.6558430790901184
+  },
+  "metadata": {
+    "width": 8064,
+    "height": 6048
+  }
+}
