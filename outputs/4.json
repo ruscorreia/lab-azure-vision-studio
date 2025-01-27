@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "c286f7cc-7426-4103-8e78-4b29c6d8819b",
+  "content-length": "153",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a tree with orange flowers",
+    "confidence": 0.7948043942451477
+  },
+  "metadata": {
+    "width": 454,
+    "height": 469
+  }
+}
