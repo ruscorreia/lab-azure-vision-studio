@@ -1,0 +1,15 @@
+
+{
+  "apim-request-id": "00ba120c-c584-40b4-804c-5af0a3433f42",
+  "content-length": "175",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a room with a computer desk and a large closet",
+    "confidence": 0.6870580911636353
+  },
+  "metadata": {
+    "width": 3024,
+    "height": 4032
+  }
+}
